@@ -44,7 +44,7 @@ public class GimpyFactoryTest extends TestCase {
                     fail("Out of authorized range!");
                 }
 
-                //System.out.println("trouvé : "+j);
+                //System.out.println("trouv : "+j);
 
             } while (j != i);
         }

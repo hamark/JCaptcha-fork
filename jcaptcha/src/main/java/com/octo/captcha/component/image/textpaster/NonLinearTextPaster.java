@@ -23,7 +23,6 @@ import java.text.AttributedString;
  * Pastes characters in differents height lines in the background
  *
  * @date 19 mars 2007
- * @author <a href="mailto:antoine.veret@gmail.com">Antoine Véret</a>
  */
 public class NonLinearTextPaster extends AbstractTextPaster {
 
